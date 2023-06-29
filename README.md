@@ -20,4 +20,8 @@ Particulate nitrate measured every 3 or 6 days, and daily PM2.5 mass concentrati
 Nitrate volatilization (NO3_v) is calculated from hourly surface and dewpoint temperature values, and compared with pNO3 measured by the CSN. 
 ###### Huang, J., 2018: A Simple Accurate Formula for Calculating Saturation Vapor Pressure of Water and Ice. J. Appl. Meteor. Climatol., 57, 1265–1272
 
-see ammNO3calc.py for code to calculate; relevant csv files have been uploaded too to run the code.
+## ammNO3calc.py
+this code calculates Kern county PM2.5 nitrate losses
+the PM2.5_NO3_mass_CA.csv zip file has been uploaded for use in ammNO3calc.py
+hourly temperature, rh files for Kern county are also needed to run this code
+
